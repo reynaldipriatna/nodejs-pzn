@@ -1,4 +1,4 @@
-import { threadId, parentPort } from "worker_threads";
+import { parentPort, threadId } from "worker_threads";
 
 parentPort.addListener("message", (message) => {
   for (let i = 0; i < message; $i++) {
