@@ -1,0 +1,16 @@
+{
+  "name": "revolt-belajar-nodejs-npm-library",
+  "version": "1.2.0",
+  "description": "Belajar Node JS NPM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reynaldi Priatna",
+  "license": "ISC",
+  "exports": {
+    ".": "./index.js",
+    "./number": "./number.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "belajar-nodejs-unit-test",
+  "version": "1.0.0",
+  "description": "Belajar Node JS Unit Test",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "unit-test",
+    "test"
+  ],
+  "author": "Reynaldi Priatna",
+  "license": "ISC"
+}
